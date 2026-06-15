@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Emma Excel
+#  Hi, I'm Emma Excel
 
-🎓 Final-year Computer Science student at **FUPRE**  
-💻 Frontend & Mobile Developer with **3+ years of experience**  
-📍 Based in Nigeria | Passionate about building clean, scalable, and user-friendly apps
+Final-year Computer Science student at **FUPRE**  
+Frontend & Mobile Developer with **3+ years of experience**  
+Based in Nigeria | Passionate about building clean, scalable, and user-friendly apps
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** Java, C, C++, Python, JavaScript, TypeScript, HTML, CSS  
 - **Frontend:** React, Next.js, Tailwind CSS, Redux  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - Build responsive and accessible web interfaces with **React + Tailwind**
 - Develop smooth, performant mobile apps using **React Native**
@@ -25,19 +25,18 @@
 
 ---
 
-## 📈 Projects & Contributions
+## Projects & Contributions
 
 I’m currently working on:
 
-- 🧠 AI-powered support bots  
-- 📱 Attendance tracking systems with GPS and face recognition  
-- ⚙️ Tools that bridge web, mobile & AI seamlessly
+- AI-powered systems 
+- Tools that bridge web, mobile & AI seamlessly
 
 Check out my pinned repos below to see what I’ve been building.
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/excel-emma-457b61201)
 - [Twitter](https://x.com/Oppai_senpai6)
@@ -46,7 +45,7 @@ Check out my pinned repos below to see what I’ve been building.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmmaExcel&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaExcel&layout=compact&theme=radical)
@@ -59,7 +58,7 @@ Check out my pinned repos below to see what I’ve been building.
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰Languages and Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
