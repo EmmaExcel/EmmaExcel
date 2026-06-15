@@ -46,7 +46,7 @@ Check out my pinned repos below to see what I’ve been building.
 ---
 
 ##  GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=EmmaExcel&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaExcel&layout=compact&theme=radical)
 
